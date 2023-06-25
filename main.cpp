@@ -171,6 +171,7 @@ int main()
     indice_contratados.clear(); //seteo el indice de contratados para utilizarlo ahora con greedy
 	resuelvo_greedy(indice_contratados,empleados_contratados,tecnologias_totales,postulantes,postulante_disponible);
 
+
     //cout<<"Cantidad de contratados --> "<< auxiliar.size() <<endl;
 
 
