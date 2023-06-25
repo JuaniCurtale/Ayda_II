@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1687452692 source:c:\users\yo\desktop\tp3 jctc\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<algorithm>
+
